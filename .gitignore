@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+db.sqlite3
+server/staticfiles/
+server/frontend/node_modules/
+server/frontend/build/
+server/database/node_modules/
+venv/
+.DS_Store

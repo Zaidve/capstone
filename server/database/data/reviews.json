@@ -1,0 +1,114 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "name": "Berkly Shepley",
+      "dealership": 15,
+      "review": "Total grid-enabled service-desk",
+      "purchase": true,
+      "purchase_date": "07/11/2020",
+      "car_make": "Audi",
+      "car_model": "A6",
+      "car_year": 2010
+    },
+    {
+      "id": 2,
+      "name": "Gwenora Zettoi",
+      "dealership": 11,
+      "review": "Fantastic services and very friendly staff",
+      "purchase": true,
+      "purchase_date": "09/17/2020",
+      "car_make": "Toyota",
+      "car_model": "Camry",
+      "car_year": 2019
+    },
+    {
+      "id": 3,
+      "name": "Mitchell Dunn",
+      "dealership": 11,
+      "review": "Great experience, the sales team was honest and helpful",
+      "purchase": true,
+      "purchase_date": "03/02/2021",
+      "car_make": "NISSAN",
+      "car_model": "Pathfinder",
+      "car_year": 2021
+    },
+    {
+      "id": 4,
+      "name": "Danella Reith",
+      "dealership": 12,
+      "review": "Terrible waiting time and rude manager",
+      "purchase": true,
+      "purchase_date": "06/23/2021",
+      "car_make": "Kia",
+      "car_model": "Sorrento",
+      "car_year": 2020
+    },
+    {
+      "id": 5,
+      "name": "Tymon Langston",
+      "dealership": 13,
+      "review": "Smooth paperwork and a fair price",
+      "purchase": true,
+      "purchase_date": "01/14/2022",
+      "car_make": "Mercedes",
+      "car_model": "C-Class",
+      "car_year": 2022
+    },
+    {
+      "id": 6,
+      "name": "Ingrid Folk",
+      "dealership": 1,
+      "review": "Excellent selection of used cars",
+      "purchase": false,
+      "purchase_date": "",
+      "car_make": "Audi",
+      "car_model": "A4",
+      "car_year": 2018
+    },
+    {
+      "id": 7,
+      "name": "Ross Caldera",
+      "dealership": 4,
+      "review": "Average service, nothing special",
+      "purchase": true,
+      "purchase_date": "11/05/2022",
+      "car_make": "Toyota",
+      "car_model": "Corolla",
+      "car_year": 2017
+    },
+    {
+      "id": 8,
+      "name": "Lara Kent",
+      "dealership": 15,
+      "review": "Loved the test drive and the follow-up call",
+      "purchase": true,
+      "purchase_date": "02/20/2023",
+      "car_make": "Kia",
+      "car_model": "Carnival",
+      "car_year": 2023
+    },
+    {
+      "id": 9,
+      "name": "Owen Hart",
+      "dealership": 17,
+      "review": "Very professional team, highly recommended",
+      "purchase": true,
+      "purchase_date": "05/09/2023",
+      "car_make": "Mercedes",
+      "car_model": "E-Class",
+      "car_year": 2023
+    },
+    {
+      "id": 10,
+      "name": "Priya Raman",
+      "dealership": 10,
+      "review": "The financing process was confusing",
+      "purchase": true,
+      "purchase_date": "08/30/2023",
+      "car_make": "NISSAN",
+      "car_model": "Qashqai",
+      "car_year": 2022
+    }
+  ]
+}

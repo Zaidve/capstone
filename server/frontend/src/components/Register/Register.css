@@ -1,0 +1,13 @@
+.register_container .input {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.register_container .input_field {
+  flex: 1;
+}
+
+.register_container .submit_panel {
+  margin-top: 8px;
+}

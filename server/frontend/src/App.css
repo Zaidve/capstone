@@ -1,0 +1,40 @@
+body {
+  font-family: "Inter", "Segoe UI", Roboto, sans-serif;
+  background: #f4f6fa;
+  color: #1f2933;
+}
+
+.brand-nav { background-color: #0b3d91; }
+.brand-nav .navbar-brand { font-weight: 800; }
+.brand-nav .nav-link.active { color: #f5a623 !important; font-weight: 700; }
+.username-badge { color: #fff; font-weight: 700; margin-right: 12px; }
+
+.panel {
+  max-width: 480px;
+  margin: 60px auto;
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 6px 20px rgba(15, 30, 60, .1);
+  padding: 32px;
+}
+.panel h2 { color: #0b3d91; font-weight: 800; margin-bottom: 20px; }
+.input-icon { width: 28px; text-align: center; font-size: 1.2rem; }
+.btn-accent { background: #f5a623; border: 0; font-weight: 700; color: #1a1a1a; }
+.btn-accent:hover { background: #e0941b; }
+
+.table-dealers th { background: #0b3d91; color: #fff; }
+.table-dealers select { min-width: 160px; }
+
+.dealer-header { padding: 28px 0 10px; }
+.dealer-header h1 { color: #0b3d91; font-weight: 800; }
+.review-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 18px;
+  box-shadow: 0 4px 14px rgba(15, 30, 60, .08);
+  height: 100%;
+}
+.sentiment { font-size: 1.8rem; }
+.sentiment-positive { color: #1e8e3e; }
+.sentiment-neutral { color: #6b7785; }
+.sentiment-negative { color: #c5221f; }
